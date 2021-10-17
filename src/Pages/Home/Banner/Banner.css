@@ -1,0 +1,27 @@
+.banner{
+    position: relative;
+    text-align: center;
+}
+.centered-text{
+    position: absolute;
+    top: 36%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.input{
+    display: flex;
+    justify-content: center;
+}
+.input-field{
+    width: 60%;
+    border-radius:30px;
+    border: none;
+    padding: 5px 0px 6px 15px;
+}
+.search-btn{
+    background-color: red;
+    border: none;
+    padding: 5px 25px;
+    margin-left: 10px;  
+
+}

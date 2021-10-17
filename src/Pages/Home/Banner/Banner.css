@@ -11,9 +11,10 @@
 .input{
     display: flex;
     justify-content: center;
+    margin-top: 20px;
 }
 .input-field{
-    width: 60%;
+    width: 65%;
     border-radius:30px;
     border: none;
     padding: 5px 0px 6px 15px;
@@ -22,6 +23,6 @@
     background-color: red;
     border: none;
     padding: 5px 25px;
-    margin-left: 10px;  
+    margin-left: 5px;  
 
 }

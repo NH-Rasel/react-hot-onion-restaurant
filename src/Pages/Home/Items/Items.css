@@ -1,0 +1,29 @@
+.breakfast{
+    text-decoration: none;
+    margin-right: 40px;
+    color: black;
+    font-weight: 500;
+}
+.breakfast:hover{
+    color: red;
+    text-underline-position: below 2px solid red;
+}
+.lunch{
+    text-decoration: none;
+    margin-right: 40px;
+    color: black;
+    font-weight: 500;
+}
+.lunch:active{
+    color: red;
+    text-underline-position: below 2px solid red;
+}
+.dinner{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+.dinner:active{
+    color: red;
+    text-underline-position: below 2px solid red;
+}

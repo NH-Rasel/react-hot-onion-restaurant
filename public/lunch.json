@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Healthy Meal Plan",
+        "quote": "How we dream about our future",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero consequatur beatae, est labore perspiciatis quidem eum dicta fuga praesentium saepe.",
+        "img": "https://i.ibb.co/DDWJqpm/lunch6.png",
+        "price": 23.99
+    },
+    {
+        "name": "Fried Chicken Bento",
+        "quote": "How we dream about our future",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero consequatur beatae, est labore perspiciatis quidem eum dicta fuga praesentium saepe.",
+        "img": "https://i.ibb.co/fddz495/lunch5.png",
+        "price": 9.99
+    },
+    {
+        "name": "Tarragon-Rubbed-Salmon",
+        "quote": "How we dream about our future",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero consequatur beatae, est labore perspiciatis quidem eum dicta fuga praesentium saepe.",
+        "img": "https://i.ibb.co/P9wNq5z/lunch3.png",
+        "price": 6.99
+    },
+    {
+        "name": "Indian Lunch",
+        "quote": "How we dream about our future",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero consequatur beatae, est labore perspiciatis quidem eum dicta fuga praesentium saepe.",
+        "img": "https://i.ibb.co/yRy3Kz6/lunch4.png",
+        "price": 8.99
+    },
+    {
+        "name": "Beef Steak",
+        "quote": "How we dream about our future",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero consequatur beatae, est labore perspiciatis quidem eum dicta fuga praesentium saepe.",
+        "img": "https://i.ibb.co/bBHSR7Z/lunch1.png",
+        "price": 15.99
+    },
+    {
+        "name": "Honey-soy-glazed Salmon with peppers",
+        "quote": "How we dream about our future",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero consequatur beatae, est labore perspiciatis quidem eum dicta fuga praesentium saepe.",
+        "img": "https://i.ibb.co/51G33WZ/lunch2.png",
+        "price": 7.99
+    }
+]
